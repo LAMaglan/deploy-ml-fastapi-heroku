@@ -46,4 +46,6 @@ git push heroku <your-main-branch>
 
 # Step 4: Test ML model with postman
 
-**TODO**
+My test ML app is on
+https://language-detection-app-luigi.herokuapp.com/
+Use Postman to test it (**TODO**)
