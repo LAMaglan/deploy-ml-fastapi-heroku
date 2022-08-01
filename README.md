@@ -1,3 +1,6 @@
+# Step 0: video with instructions
+See [here](https://www.youtube.com/watch?v=h5wLuVDr0oc)
+
 # Step 1: python scripts
 Make FastAPI files. Get pickle file from
 orig [repo](https://github.com/AssemblyAI-Examples/ml-fastapi-docker-heroku)
