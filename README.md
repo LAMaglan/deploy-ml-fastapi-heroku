@@ -48,10 +48,10 @@ git push heroku <your-main-branch>
 
 My test ML app is on
 https://language-detection-app-luigi.herokuapp.com/
-Use Postman to test it
+Use Postman (log in your postman account in web browser) to test it. 
 In "Collections", add URL to the GET request field to
 get some sanity check results.
-
+<br>
 First,  click on POST, and add the endpoint to the URL (in this case, we called
 it "/predict" in the main.py).
 Then, click on  Body -> raw, and make sure it is JSON and not text in the dropdown.
