@@ -7,6 +7,7 @@ from app.model.model import __version__ as model_version
 app = FastAPI()
 
 
+#FastAPI allows for type hint (to validate input, etc)
 class TextIn(BaseModel):
     text: str
 
